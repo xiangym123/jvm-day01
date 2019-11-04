@@ -1,3 +1,12 @@
+
+
+
+
+何为调优：tuning 尽量减少ygc 不产生fgc
+pn响应时间优先
+ps吞吐量优先
+
+
 # GC和GC Tuning
 
 作者：马士兵教育 http://mashibing.com
